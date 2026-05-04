@@ -21,7 +21,7 @@
 ## 📦 Repositories
 🔹 Frontend / [hamddu-frontend](https://github.com/Hamddu/hamddu-frontend)
 
-🔹 Backend / [hamddu-backend](링크)
+🔹 Backend / [hamddu-backend](https://github.com/northmantar/hamddu-backend)
 
 
 <br>
